@@ -2,4 +2,4 @@
 
 This is an example of how to use the Github flow.
 
-new branch update
+Hi i'm new here
